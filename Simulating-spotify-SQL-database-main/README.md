@@ -1,10 +1,3 @@
-# Design Document
-
-**By Esraa Abduallah**
-
-**Video Overview:** [Watch here](https://youtu.be/DaRYJJ6w7hI?si=KwpZwDRc__Wfv57z)
-
----
 
 ## Scope
 
